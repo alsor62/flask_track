@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3c231927-65d9-4e7f-ac49-68e554f0569c" name="pi4">
+        <fileTransfer rootFolder="/home/alsor/pyproject" accessType="SFTP" host="192.168.1.15" port="22" sshConfigId="810ed912-61c9-4fb3-ad3b-390f5287fbb5" sshConfig="alsor@192.168.1.15:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
